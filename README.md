@@ -21,9 +21,6 @@
 
 ###
 
-### :fire: Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-midya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
